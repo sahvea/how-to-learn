@@ -9,10 +9,6 @@
   font-weight: normal;
 }
 
-a:hover {
-  color: rgba(47, 128, 237, .6);
-}
-
 .logo {
 
   width: 183px;
@@ -61,6 +57,10 @@ a:hover {
 .header__link {
   color: #2f80ed;
   text-decoration: none;
+}
+
+.header__link:hover {
+  color: rgba(47, 128, 237, .6);
 }
 
 .header__main-illustration {
@@ -207,6 +207,10 @@ a:hover {
   position: absolute;
   top: 50%;
   right: 48px;
+}
+
+.feynman__link:hover {
+  color: rgba(47, 128, 237, .6);
 }
 
 .kaufman {
