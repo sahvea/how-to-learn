@@ -1,0 +1,12 @@
+.feynman__link {
+  color: #2f80ed;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  transition: opacity .2s linear;
+}
+
+.feynman__link:hover {
+  opacity: .6;
+}
