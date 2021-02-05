@@ -1,0 +1,10 @@
+.footer__link {
+  line-height: 30px;
+  text-decoration: none;
+  color: white;
+  transition: color .2s linear;
+}
+
+.footer__link:hover {
+  color: #2f80ed;
+}
